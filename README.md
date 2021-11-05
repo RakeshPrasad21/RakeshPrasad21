@@ -11,7 +11,7 @@
 - 📫 How to reach me ..
       </td>
   <td>
- <a href="https://app.daily.dev/rakesh_pra123"><img src="https://api.daily.dev/devcards/000b5794450d4ae1a0653df655d06bab.png?r=lhj" width="400" alt="Rakesh Prasad's Dev Card"/>  </a>
+ <a href="https://app.daily.dev/rakesh_pra123"><img src="https://github.com/RakeshPrasad21/RakeshPrasad21/blob/main/devcard.svg" width="400" alt="Rakesh Prasad's Dev Card"/>  </a>
 </td>
   </tr>
 .
