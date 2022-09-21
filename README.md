@@ -23,10 +23,9 @@
 <img width="80" alt="image" src="https://user-images.githubusercontent.com/89901373/191527357-5cb637e3-0aab-45a7-a36d-3b180519b1c3.png">
 <img width="80" alt="image" src="https://user-images.githubusercontent.com/89901373/191527829-18e6b6af-5943-4741-896a-c454f8977739.png">
 <img width="100" alt="image" src="https://user-images.githubusercontent.com/89901373/191528080-efb66b2a-0012-4f3c-b1c9-0f9a5600a81b.png">
-
-
 </p>
 
+![Rakesh's github stats](https://github-readme-stats.vercel.app/api?username=RakeshPrasad21)
 
 
 
