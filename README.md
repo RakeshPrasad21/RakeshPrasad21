@@ -3,11 +3,18 @@
 - 👋 Hi, I’m @Rakesh Prasad
     
 - 👀I’m currently working at [Open Systems](https://www.open-systems.com/) as Azure developer
+- 👀Have 10+ years of experiance in microsoft technologies as a soft. developer
+- 👀Working as a Azure developer since last 4 years.
 
-- 🌱 I’m currently learning Microsoft sentinel, Azure policy and Microsoft Defender for Endpoint 
+- 🌱 Now Studying 
+     -  Microsoft Sentinel
+     -  Azure policy
+     -  Microsoft Defender for Endpoint
 
    
-.
+<h1><img src="https://slackmojis.com/emojis/60712-writing-hand/download" width="30"/>Tech Stack</h1>
+
+- 
 
 <!---
 RakeshPrasad21/RakeshPrasad21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
