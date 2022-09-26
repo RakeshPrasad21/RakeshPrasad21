@@ -1,6 +1,6 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/> </h1>
 
-- 👋 Hi, I’m @Rakesh Prasad [Brief intro](https://rakeshprasad21.github.io/digital-cv/) <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/> 
+- 👋 Hi, I’m @Rakesh Prasad [Brief intro](https://rakeshprasad21.github.io/digital-cv/)
     
 - 👀I’m currently working at [Open Systems](https://www.open-systems.com/) as Azure developer
 - 👀Have 10+ years of experiance in microsoft technologies as a soft. developer
@@ -10,7 +10,6 @@
      -  Microsoft Sentinel
      -  Azure policy
      -  Microsoft Defender for Endpoint
- - :mailbox:How to reach me:[<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>](https://www.linkedin.com/in/rakesh-prasad-442b7b36/)
 
    
 <h1><img src="https://slackmojis.com/emojis/60712-writing-hand/download" width="30"/>Tech Stack</h1>
