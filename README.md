@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-- 👋 Hi, I’m @Rakesh Prasad [Brief intro](https://rakeshprasad21.github.io/digital-cv/)
+- 👋 Hi, I’m @Rakesh Prasad [Brief intro](https://rakeshprasad21.github.io/digital-cv/) <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/> 
     
 - 👀I’m currently working at [Open Systems](https://www.open-systems.com/) as Azure developer
 - 👀Have 10+ years of experiance in microsoft technologies as a soft. developer
@@ -10,6 +10,7 @@
      -  Microsoft Sentinel
      -  Azure policy
      -  Microsoft Defender for Endpoint
+ - :mailbox:How to reach me:[<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>](https://www.linkedin.com/in/rakesh-prasad-442b7b36/)
 
    
 <h1><img src="https://slackmojis.com/emojis/60712-writing-hand/download" width="30"/>Tech Stack</h1>
@@ -25,9 +26,7 @@
 <img width="100" alt="image" src="https://user-images.githubusercontent.com/89901373/191528080-efb66b2a-0012-4f3c-b1c9-0f9a5600a81b.png">
 </p>
 
-![Rakesh's github stats](https://github-readme-stats.vercel.app/api?username=RakeshPrasad21)
-
-
+![Rakesh's github stats](https://github-readme-stats.vercel.app/api?username=RakeshPrasad21)   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RakeshPrasad21&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!---
 RakeshPrasad21/RakeshPrasad21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
