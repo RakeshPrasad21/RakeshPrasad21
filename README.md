@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @Rakesh Prasad [Brief intro](https://rakeshprasad21.github.io/digital-cv/)
     
-- 👀I’m currently working at [Open Systems](https://www.open-systems.com/) as Azure developer
+- 👀I’m currently working at [Mannai](https://mannai-ict.com/) as Azure developer
 - 👀Have 10+ years of experiance in microsoft technologies as a soft. developer
 - 👀Working as a Azure developer since last 4 years.
 
