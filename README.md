@@ -11,6 +11,11 @@
      -  Azure policy
      -  Microsoft Defender for Endpoint
 
+<h2>📝 Popular LinkedIn posts</h2>
+
+- [Phishing Attacks Unveiled: How to Stay One Step Ahead of Cybercriminals]([https://www.linkedin.com/feed/update/urn:li:activity:7074266914918653952](https://www.linkedin.com/pulse/phishing-attacks-unveiled-how-stay-one-step-ahead-rakesh-prasad%3FtrackingId=XbM46W5isgJdhGvlclaylA%253D%253D/?trackingId=XbM46W5isgJdhGvlclaylA%3D%3D))
+- [Brute force attack vs Password spray attack in Azure Sentine]([https://www.linkedin.com/feed/update/urn:li:activity:7049428053566869505](https://www.linkedin.com/pulse/brute-force-attack-vs-password-spray-azure-sentinel-rakesh-prasad%3FtrackingId=xHMINhN3pFBobIgzo4urJg%253D%253D/?trackingId=xHMINhN3pFBobIgzo4urJg%3D%3D))
+- [4 Important thing to know about API]([https://www.linkedin.com/feed/update/urn:li:activity:7048013730961338368](https://www.linkedin.com/pulse/4-important-thing-know-api-rakesh-prasad/))
    
 <h1><img src="https://slackmojis.com/emojis/60712-writing-hand/download" width="30"/>Tech Stack</h1>
 <p float="left">
