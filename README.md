@@ -4,7 +4,7 @@
     
 - 👀I’m currently working at [Mannai](https://mannai-ict.com/) as Senior Managing Consultant
 - 👀Have 10+ years of experiance in microsoft technologies as a soft. developer
-- 👀Working as a Azure developer since last 4 years.
+- 👀Working as a Azure developer since last 5 years.
 
 - 🌱 Now Studying 
      -  Microsoft Sentinel
