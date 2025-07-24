@@ -2,9 +2,9 @@
 
 - 👋 Hi, I’m @Rakesh Prasad [Brief intro](https://rakeshprasad21.github.io/digital-cv/)
     
-- 👀I’m currently working at [Mannai](https://mannai-ict.com/) as Senior Managing Consultant
+- 👀I’m currently working at [ICPES Technologies]([https://mannai-ict.com/](https://icpes.co.in/)) as Technical Architect
 - 👀Have 10+ years of experiance in microsoft technologies as a soft. developer
-- 👀Working as a Azure developer since last 5 years.
+- 👀Working as a Azure developer since last 6 years.
 
 - 🌱 Now Studying 
      -  Microsoft Sentinel
