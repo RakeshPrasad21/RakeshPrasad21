@@ -26,3 +26,5 @@ Sign-in Analysis
 SCU (Service Consumption Unit) Events
 - Details on bought or modified SCUs, including who made changes
 - SCU capacity trends over time.
+
+https://techcommunity.microsoft.com/blog/securitycopilotblog/monitor-user-activities-and-system-events-with-security-copilot-and-microsoft-se/4303368?utm_source=chatgpt.com
