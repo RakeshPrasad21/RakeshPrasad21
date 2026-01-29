@@ -5,5 +5,14 @@
 <img width="700" height="850" alt="image" src="https://github.com/user-attachments/assets/a4281414-0ce8-4f99-94ac-16c96edef4ac" />
 
 
+ServiceNow CMDB  ──┐
+                   │
+                   ├──▶ External Connector (MVP) ──▶ Exposure Graph ──▶ MSEM Dashboards
+                   │                                  (Asset + Vuln        Attack Paths
+Qualys VMDR  ──────┘                                   Inventory)          Secure Score
+                                                                           Advanced Hunting
+                   │
+                   └──▶ Normalization, Enrichment, Mapping
+
 
 
